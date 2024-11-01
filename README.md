@@ -4,7 +4,7 @@
 
 ![Maintained][maintained-badge]
 [![Make a pull request][prs-badge]][prs]
-[![License][license-badge]](LICENSE.md)
+[![License][license-badge]](LICENSE)
 
 ![CI Build](https://img.shields.io/github/actions/workflow/status/Unkn8wn69/psst/build.yml)
 ![Latest Release](https://img.shields.io/github/v/release/Unkn8wn69/psst?include_prereleases)
