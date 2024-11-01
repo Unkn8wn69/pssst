@@ -2,9 +2,9 @@
    <a href="https://mxgfx.me">
       <img src="/assets/icon_128px.png">
    </a>
-   <p><sub><sup>
-         Logo by <a href="https://mxgfx.me"><sub><sup>MX Graphics</sub></sub></a>
-   </sub></sub></p>
+   <p><sub>
+         Logo by <a href="https://mxgfx.me">MX Graphics</a>
+   </sub></p>
    <h1>Polyseed Secret Sharing Tool 🤫 (PSST)</h1>
 
 ![Maintained][maintained-badge]
