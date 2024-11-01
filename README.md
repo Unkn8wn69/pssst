@@ -1,6 +1,6 @@
 <div align="center">
    <a href="https://mxgfx.me">
-      <img src="/assets/icon_128px.png">
+      <img src="/assets/icon.png">
    </a>
    <p><sub>
          Logo by <a href="https://mxgfx.me">MX Graphics</a>
