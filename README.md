@@ -1,5 +1,10 @@
 <div align="center">
-   <img src="/assets/icon_128px.png">
+   <a href="https://mxgfx.me">
+      <img src="/assets/icon_128px.png">
+   </a>
+   <p><sub><sup>
+         Logo by <a href="https://mxgfx.me"><sub><sup>MX Graphics</sub></sub></a>
+   </sub></sub></p>
    <h1>Polyseed Secret Sharing Tool 🤫 (PSST)</h1>
 
 ![Maintained][maintained-badge]
@@ -84,6 +89,7 @@ This project is in an early stage, and contributions are welcome.
 
 - Trezor [python-shamir-mnemonic](https://github.com/trezor/python-shamir-mnemonic)
 - [iancoleman](https://github.com/iancoleman/slip39) for inspiration from his https://iancoleman.io/slip39/
+- Special thanks to [MX Graphics](https://mxgfx.me) for the Logo!
 
 ## Donations
 
