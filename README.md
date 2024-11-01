@@ -2,18 +2,17 @@
    <img src="/assets/icon_128px.png">
    <h1>Polyseed Secret Sharing Tool 🤫 (PSST)</h1>
 
-   ![Maintained][maintained-badge]
-   [![Make a pull request][prs-badge]][prs]
-   [![License][license-badge]](LICENSE.md)
+![Maintained][maintained-badge]
+[![Make a pull request][prs-badge]][prs]
+[![License][license-badge]](LICENSE.md)
 
-   [![CI Build](https://github.com/Unkn8wn69/psst/actions/runs/11398760958)]
-   [![Latest Release](https://github.com/Unkn8wn69/psst/releases/tag/v0.0.9)]
+![CI Build](https://img.shields.io/github/actions/workflow/status/Unkn8wn69/psst/build.yml)
+![Latest Release](https://img.shields.io/github/v/release/Unkn8wn69/psst?include_prereleases)
 
-   [![Watch on GitHub][github-watch-badge]][github-watch]
-   [![Star on GitHub][github-star-badge]][github-star]
+[![Watch on GitHub][github-watch-badge]][github-watch]
+[![Star on GitHub][github-star-badge]][github-star]
 
-   [![XMR Donated](https://img.shields.io/badge/donated-0_XMR-blue?logo=monero)](https://github.com/Unkn8wn69/psst?tab=readme-ov-file#donations)
-   [![BTC Donated][bitcoin-donated-badge]][bitcoin-donated]
+[![XMR Donated](https://img.shields.io/badge/donated-0_XMR-blue?logo=monero)](https://github.com/Unkn8wn69/psst?tab=readme-ov-file#donations)
 </div>
 
 This is a python gui tool that can be used to backup a monero polyseed using shared secrets by using [Shamir's Secret Sharing Scheme](https://en.wikipedia.org/wiki/Shamir%27s_secret_sharing). It uses Trezors python-shamir-mnemonic to generate mnemonic phrases. To also lower the amount of words per mnemonic phrase it only saves the seed's indexes in the [BIP-39](https://github.com/bitcoin/bips/blob/master/bip-0039/bip-0039-wordlists.md) wordlist and by that lowering the amount of words to ~24 per share.
@@ -98,3 +97,15 @@ If you find this project useful, please consider donating to the following Moner
 ## License
 
 This project is released under the terms of the GPL 3.0 license. For more information, see the [LICENSE](LICENSE) file included in the repository.
+
+[maintained-badge]: https://img.shields.io/badge/maintained-yes-brightgreen
+[license-badge]: https://img.shields.io/badge/license-GPL-blue.svg
+[prs-badge]: https://img.shields.io/badge/PRs-welcome-red.svg
+[prs]: http://makeapullrequest.com
+
+[github-watch-badge]: https://img.shields.io/github/watchers/everoddandeven/monerod-gui.svg?style=social
+[github-watch]: https://github.com/everoddandeven/monerod-gui/watchers
+[github-star-badge]: https://img.shields.io/github/stars/everoddandeven/monerod-gui.svg?style=social
+[github-star]: https://github.com/everoddandeven/monerod-gui/stargazers
+
+[bitcoin-donated]: https://github.com/everoddandeven/monerod-gui?tab=readme-ov-file#bitcoin
