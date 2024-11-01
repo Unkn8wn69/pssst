@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="/assets/icon.png">
+   <img src="/assets/icon_128px.png">
    <h1>Polyseed Secret Sharing Tool 🤫 (PSST)</h1>
 </div>
 
